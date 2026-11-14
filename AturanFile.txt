@@ -1,0 +1,15 @@
+{aturan
+# id|mode|syarat|hasil|kode sumber
+R1|atau|Daun bagian bawah menguning; Tanaman layu padahal tanah masih basah|Tanaman kelebihan air|S1
+R2|dan|Tanaman kelebihan air; Air menggenang di tatakan pot|Tingkat kerusakan rendah|S1
+R3|dan|Tanaman terkena sinar matahari langsung yang terik; Daun tampak pucat atau memutih pada bagian tertentu|Daun terbakar sinar matahari|S2
+R4|atau|Daun terbakar sinar matahari; Bagian daun yang pucat berubah cokelat dan rapuh|Tingkat kerusakan sedang|S2
+R5|dan|Tingkat kerusakan sedang; Pertumbuhan tanaman terhambat|Tingkat kerusakan tinggi|S3
+}
+
+{sumber
+# kode|keterangan sumber
+S1|Kluepfel, Blake & Williamson. Houseplant Diseases & Disorders (HGIC 2251). Clemson Cooperative Extension, 2025. https://hgic.clemson.edu/factsheet/houseplant-diseases-disorders/
+S2|Davison, E. (1998). Indoor Plant Selection and Care (AZ1025). University of Arizona Cooperative Extension. https://extension.arizona.edu/publication/indoor-plant-selection-and-care
+S3|Pettinelli, D. Fertilizing Houseplants Fact Sheet. UConn Extension, 2020. https://soiltesting.cahnr.uconn.edu/wp-content/uploads/sites/3514/2023/03/Fertilizing-Houseplants-Fact-Sheet.pdf
+}
